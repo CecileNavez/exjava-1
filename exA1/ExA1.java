@@ -7,7 +7,7 @@ public class ExA1 {
 		double pricePerDay = 450.5;
 		boolean priorKnowledgeRequired = false;
 		
-		System.out.println(" The " + title + " course takes " + numberOfDays + " days and costs " + pricePerDay + " euros per day ");
+		System.out.println("The " + title + " course takes " + numberOfDays + " days and costs " + pricePerDay + " euros per day. \nPrior knowledge required: " + priorKnowledgeRequired );
 		
 		
 		
