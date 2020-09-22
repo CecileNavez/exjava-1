@@ -9,7 +9,7 @@ public class ExA1 {
 		
 		System.out.println("The " + title + " course takes " + numberOfDays + " days and costs " + pricePerDay + " euros per day. \nPrior knowledge required: " + priorKnowledgeRequired );
 		
-		
+	
 		
 		
 	}
