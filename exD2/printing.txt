@@ -1,0 +1,2 @@
+The java course takes 3 days and costs 450.12 euros. 
+Prior knowledge required: true
