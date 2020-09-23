@@ -1,0 +1,4 @@
+Salary of Sandy at 23 is 2000.0.
+Salary of Sandy at 28 is 2060.0.
+Salary of Sandy at 33 is 2121.8.
+Salary of Sandy at 38 is 2185.454.

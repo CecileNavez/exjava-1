@@ -1,0 +1,9 @@
+Salary of Gie at 25 is 1900.0.
+Salary of Gie at 30 is 1957.0.
+Salary of Gie at 35 is 2015.71.
+Salary of Gie at 40 is 2076.1813.
+Salary of Gie at 45 is 2138.4667390000004.
+Salary of Gie at 50 is 2202.6207411700007.
+Salary of Gie at 55 is 2268.699363405101.
+Salary of Gie at 60 is 2336.760344307254.
+Maximum salary reached.
